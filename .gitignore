@@ -1,0 +1,27 @@
+# Build directory
+build/
+bin/
+obj/
+out/
+
+# CMake
+CMakeUserPresets.json
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+
+# IDEs
+.vscode/
+.vs/
+*.suo
+*.user
+*.userossc
+*.sln
+*.vcxproj
+*.filters
+
+# OS
+.DS_Store
+Thumbs.db

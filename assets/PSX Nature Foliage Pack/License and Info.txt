@@ -1,0 +1,48 @@
+Made by: SnowyCocoon
+Version: 1.0
+Asset Version: FREE
+Date: 22.10.2025
+
+Check out my other assets and works: https://www.snowycocoon.com
+
+License Agreement
+Parties:
+
+Licensor: [Dominik Strzałko / SnowyCocoon]
+Licensee: The purchaser of this asset pack
+
+Permitted Uses:
+✔ The Licensee may use the assets in any interactive game project, including both commercial and non-commercial releases.
+✔ The Licensee may modify or edit the assets as needed for their game projects.
+
+Prohibited Uses:
+❌ The Licensee may not resell, redistribute, or share the assets in their original or modified form, except as part of a compiled, playable game project.
+❌ The Licensee may not include the assets in asset bundles, template kits, or any other collections intended for redistribution.
+❌ The Licensee may not use the assets for training artificial intelligence models or datasets.
+
+Ownership & Rights:
+The Licensor retains full ownership and intellectual property rights over the assets.
+This agreement grants a license for use but does not transfer ownership to the Licensee.
+
+
+Info from page:
+
+This is a free addon to https://snowycocoon.itch.io/psx-nature-texture-pack
+
+You can use it freely and check some sample materials.
+
+License inside (Free for comercial/non-commercial games + no attribution required, but appreciated )
+​
+
+This pack includes:
+
+    3 Trees (Oak, Birch and Beech)
+    4 Stones in various sizes
+    2 bushes (green and orange)
+    All materials used to texture these models
+
+All models are in 2 formats: .fbx and .glb (.gltf)
+
+All models are below 1k Tris (low poly)
+
+-SnowyCocoon

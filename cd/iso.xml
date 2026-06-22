@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iso_project image_name="ff_psx.bin" cue_sheet="ff_psx.cue">
+    <track type="data">
+        <identifiers
+            system="PLAYSTATION"
+            application="PLAYSTATION"
+            volume="FF_PSX"
+            volume_set="FF_PSX"
+            publisher="HOMEBREW"
+            data_preparer="MKPSXISO"
+        />
+        <license file="" />
+        <directory_tree>
+            <file name="SYSTEM.CNF" type="data" source="system.cnf" />
+            <file name="FF_PSX.EXE" type="data" source="ff_psx.exe" />
+        </directory_tree>
+    </track>
+</iso_project>

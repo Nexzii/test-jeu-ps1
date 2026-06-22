@@ -1,0 +1,11 @@
+{
+    "version": 6,
+    "configurePresets": [
+        {
+            "name": "default",
+            "generator": "Ninja",
+            "toolchainFile": "D:/PSn00bSDK/build/tree/lib/libpsn00b/cmake/sdk.cmake",
+            "binaryDir": "${sourceDir}/build"
+        }
+    ]
+}
